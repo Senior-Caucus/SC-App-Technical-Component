@@ -11,6 +11,18 @@ git clone git@github.com:Senior-Caucus/nextjs-app.git
 cd nextjs-app
 ```
 
+If you don't have Node.js and npm installed, follow these steps to install them:
+
+### Install Node.js and npm
+1. Download the Node.js installer from the [official website](https://nodejs.org/).
+2. Run the installer, following the prompts to complete the installation. This will also install npm.
+
+Alternatively, you can use a package manager like Homebrew:
+
+```bash
+brew install node
+```
+
 Then, install the necessary packages:
 
 ```bash
