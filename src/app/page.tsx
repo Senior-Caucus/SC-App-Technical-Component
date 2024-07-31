@@ -13,7 +13,7 @@ export default function Home() {
         <li className={styles.listItem}>A random image on the page.</li>
       </ul>
       <div className={styles.code}>
-        Hint: Use the Link component (see line 1) to create a link to the about page.<br />
+        Hints: Use the Link component (see line 1) to create a link to the about page.<br />
         Create a folder named "about" in the "src/app" directory with two files: page.tsx and About.module.css.<br />
         Place random-image.jpg in the public folder.
       </div>
