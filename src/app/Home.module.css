@@ -1,0 +1,26 @@
+.container {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  .heading {
+    color: #0070f3;
+  }
+  
+  .list {
+    list-style-type: disc;
+    margin-left: 20px;
+  }
+  
+  .listItem {
+    margin: 10px 0;
+  }
+  
+  .code {
+    font-family: monospace;
+    background: #f4f4f4;
+    padding: 2px 4px;
+    border-radius: 3px;
+    font-size: 85%;
+    color: #000;
+  }

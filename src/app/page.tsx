@@ -1,14 +1,22 @@
 import Link from 'next/link';
+import styles from './Home.module.css';
 
 export default function Home() {
   return (
-    <div>
-      <h1>Instructions</h1>
-      <p>Create an About Us page that displays “About Us” in an h1 tag. Add a link on this page to the about page.</p>
-      <p>Add CSS to style that page.</p>
-      <p>Put a random image on that page.</p>
-      
-      {/* Hint: use Link (see line 1) to make a link to the about page. Create the folder "about" in this directory with two files: page.tsx and About.module.css. Place random-image.jpg in the public folder. */}
+    <div className={styles.container}>
+      <h1 className={styles.heading}>Instructions</h1>
+      <p>Create an About Us page with:</p>
+      <ul className={styles.list}>
+        <li className={styles.listItem}>An <code>&lt;h1&gt;</code> tag displaying "About Us".</li>
+        <li className={styles.listItem}>A link to navigate to the about page.</li>
+        <li className={styles.listItem}>CSS styling for the page.</li>
+        <li className={styles.listItem}>A random image on the page.</li>
+      </ul>
+      <div className={styles.code}>
+        Hint: Use the Link component (see line 1) to create a link to the about page.<br />
+        Create a folder named "about" in the "src/app" directory with two files: page.tsx and About.module.css.<br />
+        Place random-image.jpg in the public folder.
+      </div>
     </div>
   );
 }

@@ -39,6 +39,20 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start by looking at `src/app/page.tsx` for the instructions. The page auto-updates as you edit the file.
 
+Ensure your app has this structure:
+
+```bash
+src
+├── app
+│   ├── page.tsx
+│   ├── Home.module.css
+│   ├── about
+│   │   ├── page.tsx
+│   │   └── About.module.css
+public
+└── random-image.jpg
+```
+
 To learn more about Next.js, take a look at the following resource:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
