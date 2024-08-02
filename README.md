@@ -1,4 +1,9 @@
-# nextjs-app
+# Technical Component of the Application to Stuy Senior Caucus I/T
+
+Hi Everyone!
+
+This segment is designed to test your skills as a potential future member of the I/T department and working on all the core competencies related to the department. Start running this on localhost and read the instructions!!
+
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
