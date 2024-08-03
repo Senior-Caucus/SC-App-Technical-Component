@@ -4,6 +4,7 @@ Hi Everyone!
 
 This segment is designed to test your skills as a potential future member of the I/T department and working on all the core competencies related to the department. Start running this on localhost and read the instructions!!
 
+To make changes in your own version, please fork this project, and when you are done make a pull request to this dir! Thank you. 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
