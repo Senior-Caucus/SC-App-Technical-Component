@@ -6,6 +6,8 @@ This segment is designed to test your skills as a potential future member of the
 
 To make changes in your own version, please fork this project, and when you are done make a pull request to this dir! Thank you. 
 
+Make sure to add your Anonymous Application ID to this file.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
